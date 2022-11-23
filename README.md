@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Nickname5862
 - 👀 I’m interested in programming, art, music, etc.
-- 🌱 I’m currently learning Haskell!
-- 💞️ I’m looking to collaborate on ADS
+- 🌱 I’m currently... well, that changes a lot
+- 💞️ I’m looking to find love xD
 - 📫 How to reach me: don't even bother.
 
 <!---
